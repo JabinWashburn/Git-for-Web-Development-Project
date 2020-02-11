@@ -1,23 +1,41 @@
 https://codepen.io/JWashburn/pen/ZEGbGpg?editors=1100
 
 1. What is Semantic HTML? 
+Semantic HTML gives meaning to the code you use so that other devs and future self know what changes have been made and what they do. 
     2. What is HTML used for? 
+    its used to structure the layout of a website. give it some bones to be built upon. 
     3. What is an attribute and where do we put it? 
+    an attribute is additional information about an element, they are placed after the start tag of a div. name='value' 
     4. What is the h1 tag used for? How many times should I use it on a page?
+    h1 is used for company name or most important info on a website they should only be used once. 
     5. Name two tags that have required attributes
+    <img> and <a href>
     6. What do we put in the head of our HTML document? 
+    styles and other information we dont want website users to see. 
     7. What is an id? 
+    unique identifyier to later specifically refer to for styling 
     8. What elements can I add an id to? 
+    any
     9. How many times can I use the same id on a page? 
+    once 
     10. What is a class? 
+    a class is like an ID only it can group together different elements. 
     11. What elements can I add a class to? 
+    any 
     12. How many times can I use the same class on a page? 
+    once 
     13. How do I get my link to open in a new tab?
+    target='_blank' 
     14. What is the alt attribute used for? 
+    used to know where to send a user if the image they coded is not avaliable. 
     15. How do I reference an id?
+    #idName
     16. What is the difference between a section and a div
+    a section can group toghether bigger parts of a  website incluring groups of divs and other elements where as a div only groups togheter one part. 
     17. What is CSS used for? 
+    styling a website, making those bones look good 
     18. How to we select an element? Example - every h2 on the page
+    
     19. What is the difference between a class and an id? - Give me an example of when I might use each one
     20. How do we select classes in CSS?
     21. How do we select a p element with a single class of “human””?
